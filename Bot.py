@@ -40,7 +40,7 @@ async def start(event):
             [
                 Button.url(
                     "☀︎︎️ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ☀︎︎",
-                    "https://t.me/Poppinsmentionaibot?startgroup=true",
+                    "https://t.me/Poppinsmentionbot?startgroup=true",
                 ),
             ],
             [

@@ -34,22 +34,22 @@ async def start(event):
     if not event.is_private:
         return await event.respond("ɪ ᴀᴍ ᴀʟɪᴠᴇ 🥺")
     await event.reply(
-        "━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ɪ ᴀᴍ ᴀʟᴇxᴀ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✪ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴏᴡɴᴇʀ    : [ᴀsᴀᴅ ᴀʟɪ](https://t.me/Dr_Asad_Ali)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [ᴀʟᴇxᴀ ʜᴇʟᴘ](https://t.me/Alexa_BotUpdates)┓\n┣★ ʀᴇᴘᴏ › : [ᴀʟᴇxᴀ ʀᴇᴘᴏ](https://github.com/TheTeamAlexa/MentionBot)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/Jankari_Ki_Duniya) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
+        "━━━━━━━━━━━━━━━━━━━━━━━━\n\n✪ ɪ ᴀᴍ popooins ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ\n✪ ᴛʜᴀɴᴋs ғᴏʀ ᴜsɪɴɢ ʀᴜɴ /help..\n\n┏━━━━━━━━━━━━━━━━━┓\n┣★ ᴏᴡɴᴇʀ    : [Dr adam](https://t.me/Doctoradamm)\n┣★ ᴜᴘᴅᴀᴛᴇs › : [Bro](https://t.me/golden_yt_2)┓\n┣★ ʀᴇᴘᴏ › : [help](https://t.me/riderkunju)\n┗━━━━━━━━━━━━━━━━━┛\n\n💞 ɪғ ʏᴏᴜ ʜᴀᴠᴇ ᴀɴʏ ǫᴜᴇsᴛɪᴏɴs ᴛʜᴇɴ\nᴅᴍ ᴛᴏ ᴍʏ [ᴏᴡɴᴇʀ](https://t.me/Doctoradamm) ...\n\n━━━━━━━━━━━━━━━━━━━━━━━━",
         link_preview=False,
         buttons=(
             [
                 Button.url(
                     "☀︎︎️ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ☀︎︎",
-                    "https://t.me/Alexa_MentionBot?startgroup=true",
+                    "https://t.me/Poppinsmentionaibot",
                 ),
             ],
             [
-                Button.url("☀︎︎ ɢʀᴏᴜᴘ ☀︎︎︎", "https://t.me/Shayri_Music_Lovers"),
-                Button.url("☀︎︎ ᴄʜᴀɴɴᴇʟ ☀︎︎", "https://t.me/Alexa_BotUpdates"),
+                Button.url("☀︎︎ ɢʀᴏᴜᴘ ☀︎︎︎", "https://t.me/+Sxlm323H8AQyYzk9"),
+                Button.url("☀︎︎ ᴄʜᴀɴɴᴇʟ ☀︎︎", "https://t.me/+Sxlm323H8AQyYzk9"),
             ],
             [
-                Button.url("☀︎︎ ʙʀᴏ ☀︎︎️️", "https://t.me/Kattai_massom"),
-                Button.url("☀︎︎ ᴋɪɴɢ ☀︎︎︎", "https://t.me/Jankari_Ki_Duniya"),
+                Button.url("☀︎︎ ʙʀᴏ ☀︎︎️️", "https://t.me/riderkunju"),
+                Button.url("☀︎︎ ᴋɪɴɢ ☀︎︎︎", "https://t.me/Bugadam"),
             ],
         ),
     )
@@ -66,8 +66,8 @@ async def help(event):
         link_preview=False,
         buttons=(
             [
-                Button.url("☀︎︎ ʜᴇᴀʀᴛ", "https://t.me/Give_Me_Heart"),
-                Button.url("ʏᴏᴜᴛᴜʙᴇ ☀︎︎", "https://www.youtube.com/c/JankariKiDuniya"),
+                Button.url("☀︎︎ ʜᴇᴀʀᴛ", "https://t.me/+Sxlm323H8AQyYzk9"),
+                Button.url("ʏᴏᴜᴛᴜʙᴇ ☀︎︎", "https://t.me/+Sxlm323H8AQyYzk9"),
             ]
         ),
     )
@@ -78,14 +78,14 @@ async def help(event):
     chat_id = event.chat_id
     if not event.is_private:
         return await event.respond("ᴅᴇᴀʀ sᴛᴀʀᴛ ᴍᴇ ɪɴ ᴘᴍ ᴛᴏ ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴғ 🥺")
-    helptext = "✪ ᴏᴡɴᴇʀ ᴍᴇɴᴜ ᴏғ ᴀʟᴇxᴀ ᴍᴇɴᴛɪᴏɴ\n\n✪ ᴍʏ ᴏᴡɴᴇʀ ɪs [ᴀsᴀᴅ ᴀʟɪ](https://t.me/Dr_Asad_Ali)\n✪ ᴏғғɪᴄɪᴀʟ ᴍᴇᴍʙᴇʀ ᴏғ ʀᴏᴄᴋs\n✪ ʏᴏᴜᴛᴜʙᴇ [ᴄʜᴀɴɴᴇʟ](https://www.youtube.com/c/JankariKiDuniya)\n✪ ғᴜᴛᴜʀᴇ ᴀɴᴇsᴛʜᴇᴛɪᴄ."
+    helptext = "✪ ᴏᴡɴᴇʀ ᴍᴇɴᴜ ᴏғ ᴀʟᴇxᴀ ᴍᴇɴᴛɪᴏɴ\n\n✪ ᴍʏ ᴏᴡɴᴇʀ ɪs [DR ADAM](https://t.me/Doctoradamm)\n✪ ᴏғғɪᴄɪᴀʟ ᴍᴇᴍʙᴇʀ ᴏғ ʀᴏᴄᴋs\n✪ ʏᴏᴜᴛᴜʙᴇ [ᴄʜᴀɴɴᴇʟ](https://t.me/+Sxlm323H8AQyYzk9)\n✪ ғᴜᴛᴜʀᴇ ᴀɴᴇsᴛʜᴇᴛɪᴄ."
     await event.reply(
         helptext,
         link_preview=False,
         buttons=(
             [
-                Button.url("☀︎︎ ʜᴇᴀʀᴛ", "https://t.me/Give_Me_Heart"),
-                Button.url("ʏᴏᴜᴛᴜʙᴇ ☀︎︎", "https://www.youtube.com/c/JankariKiDuniya"),
+                Button.url("☀︎︎ ʜᴇᴀʀᴛ", "https://t.me/+Sxlm323H8AQyYzk9"),
+                Button.url("ʏᴏᴜᴛᴜʙᴇ ☀︎︎", "https://t.me/+Sxlm323H8AQyYzk9"),
             ]
         ),
     )
